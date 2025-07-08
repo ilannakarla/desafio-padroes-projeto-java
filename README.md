@@ -26,8 +26,7 @@ Cada padrão foi implementado com exemplos didáticos e organizados, facilitando
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/ilannakarla/estudo-lab-padroes-projeto-java
-
+https://github.com/ilannakarla/desafio-padroes-projeto-java
 ```
 2. Importe o projeto na sua IDE preferida (ex: VSCode, Eclipse).
 
